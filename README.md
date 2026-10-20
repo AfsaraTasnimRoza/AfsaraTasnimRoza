@@ -22,11 +22,22 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Learning-8A2BE2?style=flat-square)
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📸 [SnapFlow](https://github.com/AfsaraTasnimRoza/SnapFlow)
-
 A website screenshot and page-sequencing automation project.
+
+### 🌐 [Personal Portfolio Website](https://github.com/AfsaraTasnimRoza/Portfolio)
+My personal portfolio website featuring my profile, photo, and work.
+
+### 🎙️ Voice Bridge
+A voice-related software project.
+
+
+
+---
+
+
 
 ## 🎯 Current Focus
 
