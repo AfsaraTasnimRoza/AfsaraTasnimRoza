@@ -30,13 +30,8 @@ A website screenshot and page-sequencing automation project.
 ### 🌐 [Personal Portfolio Website](https://github.com/AfsaraTasnimRoza/Portfolio)
 My personal portfolio website featuring my profile, photo, and work.
 
-### 🎙️ Voice Bridge
-A voice-related software project.
-
-
 
 ---
-
 
 
 ## 🎯 Current Focus
